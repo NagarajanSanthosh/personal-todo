@@ -23,7 +23,7 @@ These instructions will help you set up and run the To-Do List Manager applicati
 ### Installation
 
 1. Clone this repository to your local machine using the following command:
-   https://github.com/NagarajanSanthosh/personal-todo.git
+   [https://github.com/NagarajanSanthosh/personal-todo.git](https://github.com/NagarajanSanthosh/personal-todo.git)
 
 ### Output
 
